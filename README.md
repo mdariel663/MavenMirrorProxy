@@ -29,7 +29,7 @@ allprojects {
                 includeGroup("org.jetbrains.kotlin.multiplatform")
             }
 
-            allowInsecureProtocol = true
+            isAllowInsecureProtocol = true
 
         }
         }
